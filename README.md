@@ -1,0 +1,1 @@
+# Classificador-de-Fake-News-com-Keras-e-spaCy
