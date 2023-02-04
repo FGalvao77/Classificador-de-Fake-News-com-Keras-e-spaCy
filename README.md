@@ -1,1 +1,2 @@
-# Classificador-de-Fake-News-com-Keras-e-spaCy
+# Classificador de `Fake News` com _Keras_ e _spaCy_
+---
